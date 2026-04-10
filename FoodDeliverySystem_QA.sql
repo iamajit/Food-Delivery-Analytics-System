@@ -1,4 +1,4 @@
--- Zomato Advanced SQL Script
+-- Advanced SQL Script
 
 -- Q1. Find the Top 10 Restaurants by Total Orders
 SELECT TOP 10 
