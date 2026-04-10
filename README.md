@@ -1,5 +1,5 @@
 
-<p align="center"><img src="banner.png" width="50%"></p>
+<p align="center"><img src="banner.png" width="70%"></p>
 
 ---
 ## 🍽️ Food Delivery System – Advanced SQL Project
